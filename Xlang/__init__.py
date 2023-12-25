@@ -1,3 +1,9 @@
+# XLang
+# XLang is a format for storing language strings in XML files.
+# GitHub: https://www.github.com/lewisevans2007/XLang
+# Licence: GNU General Public Licence v3.0
+# By: Lewis Evans
+
 import xml.etree.ElementTree as ET
 
 class XLang:
