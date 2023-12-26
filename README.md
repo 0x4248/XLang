@@ -9,7 +9,6 @@ XLang is a format for storing language strings in XML files. It is designed to b
 <XLang version="1.0">
     <meta>
         <name>Demo</name>
-        <version>1.0</version>
         <author>John Doe</author>
         <description>This is a demo file.</description>
     </meta>
