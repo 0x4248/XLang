@@ -2,6 +2,8 @@
 
 XLang is a format for storing language strings in XML files. It is designed to be easy to read and write, and easy to parse.
 
+XLang allows you to speed up the process of localising your application by providing a simple, easy-to-use format for storing language strings.
+
 ## Format
 
 ```xml
